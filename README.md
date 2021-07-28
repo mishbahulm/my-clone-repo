@@ -1,16 +1,23 @@
-# my-clone-repo
+# PengalamanBelajar
 
-# heading1 '#'
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-heading2 '=='
-==
 
-ini sub heading
---
+**14 Juni 2021**  
 
-*ini tulisan miring*
-- list1
-- list2
-- list3
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-sumber: https://www.markdownguide.org/basic-syntax/
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+
+  * Belajar tipe data koleksi, seperti list, set, dan map.
